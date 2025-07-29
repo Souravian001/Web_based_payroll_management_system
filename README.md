@@ -6,13 +6,13 @@ A web-based Payroll Management System designed to simplify employee payroll, att
 
 ## 🔧 Features
 
-- 👨‍💼 **Employee Management** – Add, edit, view employee records
-- 🕒 **Attendance Tracking** – Maintain employee check-ins and check-outs
-- 💸 **Payroll Generation** – Calculate and process salaries
-- 📑 **Tax Calculations** – Automate tax deductions based on salary
-- 📊 **Dashboard & Reports** – View summary and generate detailed reports
-- 🔐 **Login System** – Basic user authentication
-- 🖥️ Built using **HTML, CSS (Bootstrap)** for frontend and **Node.js + Express.js** for backend
+- 👨‍💼 **Employee Management** – Add, edit, view employee records.
+- 🕒 **Attendance Tracking** – Maintain employee check-ins and check-outs.
+- 💸 **Payroll Generation** – Calculate and process salaries.
+- 📑 **Tax Calculations** – Automate tax deductions based on salary.
+- 📊 **Dashboard & Reports** – View summary and generate detailed reports.
+- 🔐 **Login System** – Basic user authentication.
+- 🖥️ Built using **HTML, CSS (Bootstrap)** for frontend and **Node.js + Express.js** for backend.
 
 ---
 
